@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uservalculate",
+        "uuid": 14539063,
+        "checksum": "wotow"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
